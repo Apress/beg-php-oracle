@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+<title>Inside Open Source</title>
+<link>http://opensource.apress.com/</link>
+<item>
+<title>Killer Firefox Tip #294</title>
+<link>http://opensource.apress.com/article/190/</link>
+<author>W. Jason Gilmore</author>
+<description>Like most of you, I spend bunches of time downloading large
+files from the Web, typically podcasts and PDF documents…</description>
+</item>
+<item>
+<title>Beginning Ubuntu Linux wins Linux Journal Award!</title>
+<link>http://opensource.apress.com/article/189/</link>
+<author>Keir Thomas</author>
+<description>Woo hoo! My book, Beginning Ubuntu Linux, has won an award
+in the Linux Journal Editor's Choice 2006 awards!
+More precisely…</description>
+</item>
+
+<item>
+<title>Forms Validation with CakePHP</title>
+<link>http://opensource.apress.com/article/188/</link>
+<author>W. Jason Gilmore</author>
+<description>Neglecting to validate user input is akin to foregoing
+any defensive
+gameplan for containing the NFL's leading rusher. Chances are
+sooner or later…</description>
+</item>
+</channel>
+</rss>

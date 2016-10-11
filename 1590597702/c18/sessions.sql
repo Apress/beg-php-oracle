@@ -1,0 +1,5 @@
+CREATE TABLE sessions (
+sessionID VARCHAR2(32) NOT NULL PRIMARY KEY,
+expiration NUMBER NOT NULL,
+value VARCHAR2(1000)
+);
